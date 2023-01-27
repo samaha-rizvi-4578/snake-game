@@ -1,0 +1,16 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: black;
+}
+.image {
+    background-image: url(snakeskin.jpeg);
+  height: 500px;
+  width: 1300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+ }
+ h1 {
+    color: cornsilk;
+ }
